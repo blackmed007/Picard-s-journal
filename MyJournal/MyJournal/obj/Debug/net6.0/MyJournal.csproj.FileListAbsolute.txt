@@ -1,0 +1,15 @@
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/bin/Debug/net6.0/MyJournal
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/bin/Debug/net6.0/MyJournal.deps.json
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/bin/Debug/net6.0/MyJournal.runtimeconfig.json
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/bin/Debug/net6.0/MyJournal.dll
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/bin/Debug/net6.0/MyJournal.pdb
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/obj/Debug/net6.0/MyJournal.csproj.AssemblyReference.cache
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/obj/Debug/net6.0/MyJournal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/obj/Debug/net6.0/MyJournal.AssemblyInfoInputs.cache
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/obj/Debug/net6.0/MyJournal.AssemblyInfo.cs
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/obj/Debug/net6.0/MyJournal.csproj.CoreCompileInputs.cache
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/obj/Debug/net6.0/MyJournal.dll
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/obj/Debug/net6.0/refint/MyJournal.dll
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/obj/Debug/net6.0/MyJournal.pdb
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/obj/Debug/net6.0/MyJournal.genruntimeconfig.cache
+/Users/abdelhamid/Desktop/assigmentcp/MyJournal/MyJournal/obj/Debug/net6.0/ref/MyJournal.dll
